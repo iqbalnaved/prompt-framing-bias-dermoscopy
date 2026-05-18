@@ -95,7 +95,7 @@ prompt-framing-bias-dermoscopy/
 ```bash
 git clone https://github.com/iqbalnaved/prompt-framing-bias-dermoscopy.git
 cd prompt-framing-bias-dermoscopy
-pip install openai google-generativeai
+pip install -r requirements.txt
 ```
 
 Set API keys:
