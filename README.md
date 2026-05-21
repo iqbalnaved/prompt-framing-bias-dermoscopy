@@ -2,7 +2,7 @@
 
 **Mohammad Iqbal Nouyed**, D. A. Adjeroh, D. Xu, M. S. Kolodney, G. Hu
 
-*Journal of the American Academy of Dermatology* — under review
+*Journal of the American Academy of Dermatology* — Accepted (5/21/2026)
 
 > Comment on: "Framing Bias in a large language model: prompt framing influences ChatGPT's accuracy in melanoma classification. A diagnostic accuracy study."
 
